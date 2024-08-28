@@ -1,0 +1,17 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "Backend server created with Node that enables filtering and pagination on a sample JSON data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.19.2"
+  }
+}
